@@ -13,6 +13,7 @@ set(sources
 	common/IFileStream.cpp
 	common/IInterlockedLong.cpp
 	common/IMemPool.cpp
+	common/IMemoryFileStream.cpp
 	common/IMutex.cpp
 	common/IPipeClient.cpp
 	common/IPipeServer.cpp

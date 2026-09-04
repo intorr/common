@@ -15,6 +15,7 @@ set(headers
 	common/IInterlockedLong.h
 	common/ILinkedList.h
 	common/IMemPool.h
+	common/IMemoryFileStream.h
 	common/IMutex.h
 	common/IPipeClient.h
 	common/IPipeServer.h
